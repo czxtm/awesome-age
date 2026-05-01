@@ -84,7 +84,7 @@ The Go package [filippo.io/age/plugin](https://pkg.go.dev/filippo.io/age@v1.2.1-
 
 * [age-online](https://github.com/nkcmr/age-online) ([live](https://age-online.com/)) — Wasm in-browser encryption/decryption tool for text.
 
-* [himitsu](https://github.com/darkmatter/himitsu/blob/main/README.md) — TUI secrets manager with support for cross-repo sharing and typed codegen.
+* [himitsu](https://github.com/darkmatter/himitsu) — TUI secrets manager with support for cross-repo sharing and typed codegen.
 
 ## Tools
 
